@@ -3,6 +3,7 @@
 ### Education
 
 Masters of Science in Applied Business Analytics | University of West Georgia (July_2024)
+
 Bachelor of Science in Accounting | LaGrange College (May_2022)
 
 ### Technical Skills
@@ -25,7 +26,7 @@ Labor cost analyst @ Kia Motors Manufacturing Georgia - (Jun 2022 - Jun 2023)
 - Created a comprehensive overtime cost analysis report, providing management with actionable insights to optimize staffing levels and reduce overtime expenses.
 - Analyzed labor cost data to create KPI reports
 
-Projects
+### Projects
 
 1. US Ariline Delays - Multiple Linear Regression 
 
